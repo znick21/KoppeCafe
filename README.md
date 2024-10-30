@@ -31,27 +31,30 @@ Para ejecutar Laracoffee localmente, siga estos pasos:
    ```
 2. 
 Cambiar al directorio del proyecto
+
     ```bash
     cd KoppeCafe
     ```
-3. Instalar las dependencias del proyecto.
+4. Instalar las dependencias del proyecto.
+   
     ```bash
     composer install
     npm install
     ```
-4. Copie el archivo .env.example a .env y configure sus variables de entorno, incluida la configuración de su base de datos y cualquier otra configuración necesaria.
+6. Copie el archivo .env.example a .env y configure sus variables de entorno, incluida la configuración de su base de datos y cualquier otra configuración necesaria.
+   
     ```bash
     copy .env.example .env
     ```
-5. Generar una clave de aplicación
+8. Generar una clave de aplicación
     ```bash
     php artisan key:generate
     ```
-6. Cree un enlace simbólico para el directorio de almacenamiento.
+9. Cree un enlace simbólico para el directorio de almacenamiento.
    ```bash
    php artisan storage:link
    ```
-8. Configure el disco del sistema de archivos como público en el archivo .env
+10. Configure el disco del sistema de archivos como público en el archivo .env
    ```bash
    FILESYSTEM_DISK=public
    ```
