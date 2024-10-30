@@ -32,7 +32,7 @@ Para ejecutar Laracoffee localmente, siga estos pasos:
 2. 
 Cambiar al directorio del proyecto
     ```bash
-    cd laracoffee
+    cd KoppeCafe
     ```
 3. Instalar las dependencias del proyecto.
     ```bash
