@@ -76,7 +76,7 @@ Los integrantes de la materia de Tecnologia Web II:
 2. Luis Elmar Chore Tomicha.
 3. Wilson Ademar Lima Calderon.
 4. Frank Renato Saucedo Delgado.
-5. Luis Visitor.
+5. Luis Javier Visitor Noza.
 
 
 
